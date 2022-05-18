@@ -28,17 +28,17 @@ If you want to have your model added to the leaderboard, please reach out to us.
 
 | **Model**         | **Training Data**          | **% Accuracy** |
 | :---------------- | :------------------------- | :------------: |
-| DeBERTa-v3 (base) | MNLI, FeverNLI, LingNLI, DocNLI   | 42\.7      |
-| ALBERT (xxlarge)  | SNLI, MNLI, FeverNLI, ANLI | 42             |
-| BART (large)      | SNLI, MNLI, FeverNLI, ANLI | 41\.7          |
-| DeBERTa-v3 (base) | MNLI, FeverNLI, ANLI       | 41\.3          |
-| DeBERTa-v3 (base) | MNLI                       | 40\.7          |
-| RoBERTa (large)   | SNLI, MNLI, FeverNLI, ANLI | 37             |
-| SBERT (large)     | SNLI, MNLI, FeverNLI, ANLI | 34\.3          |
-| BART (large)      | MNLI                       | 31\.3          |
+| DeBERTa-v3 (base) | MNLI, FeverNLI, ANLI       | 48          |
+| DeBERTa-v3 (base) | MNLI, FeverNLI, LingNLI, DocNLI   | 45      |
+| BART (large)      | SNLI, MNLI, FeverNLI, ANLI | 42\.7          |
+| ALBERT (xxlarge)  | SNLI, MNLI, FeverNLI, ANLI | 41\.7             |
+| BART (large)      | MNLI                       | 41\.3          |
+| RoBERTa (large)   | SNLI, MNLI, FeverNLI, ANLI | 39.3             |
+| SBERT (large)     | SNLI, MNLI, FeverNLI, ANLI | 39\.3          |
+| ELECTRA (large)   | SNLI, MNLI, FeverNLI, ANLI | 38          |
+| DeBERTa-v3 (base) | MNLI                       | 34\.7          |
 | BERT (large)      | SNLI, MNLI, FeverNLI, ANLI | 30             |
 | RoBERTa (large)   | MNLI                       | 28\.2          |
-| ELECTRA (large)   | SNLI, MNLI, FeverNLI, ANLI | 26\.7          |
 
 ## Citations
 
